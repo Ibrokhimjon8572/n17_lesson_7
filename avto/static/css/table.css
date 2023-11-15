@@ -1,0 +1,14 @@
+th, td {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+table {
+    border-collapse: collapse;
+}
+img {
+    width: 200px;
+    height: 100px;
+}
